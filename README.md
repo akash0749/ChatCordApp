@@ -16,5 +16,9 @@ Go to localhost:3000
 
 * Multiple Users
 
+<img width="553" alt="chatbot img 3" src="https://github.com/akash0749/ChatCordApp/assets/79593097/da66ca9e-bc7a-40a4-bd52-b0544257db56">
+
+
 
 * User Joined
+<img width="554" alt="chatbot img 4" src="https://github.com/akash0749/ChatCordApp/assets/79593097/2a1d94c6-096c-4072-b9ab-529d35ae795d">
